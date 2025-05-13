@@ -35,12 +35,15 @@ kagglehub
 Installation
 
 Clone the Repository:
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/Sriraam29/Inventory-optimization.git
 cd your-repo
 
 
 Install Dependencies:
 pip install pandas numpy seaborn matplotlib kagglehub
+
+
+Reference Youtube video
 
 
 Authenticate Kaggle (for dataset download):
